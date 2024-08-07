@@ -17,3 +17,6 @@
 | ![digit 7](./Slide/digit_7.png)| On | On | On |    |    |    |    |    |
 | ![digit 8](./Slide/digit_8.png)| On | On | On | On | On | On | On |    |
 | ![digit 9](./Slide/digit_9.png)| On | On | On | On |    | On | On |    |
+
+
+![circuit1](./Slide/Circuit1.png){: width="60%"}
