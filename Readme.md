@@ -20,6 +20,4 @@
 | ![digit 9](./Slide/digit_9.png)| On | On | On | On |    | On | On |    |
 
 
-<center>
-<img src="./Slide/Circuit1.png"  width="60%" >
-</center>
+<img src="./Slide/Circuit1.png" align="center" width="50%" >
