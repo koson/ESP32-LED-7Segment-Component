@@ -5,6 +5,7 @@
 
 ## ตารางความจริงสำหรับการแสดงผลตัวเลข 7 ส่วน   
 
+
 |             Digit              | a  | b  | c  | d  | e  | f  | g  | dp |
 |--------------------------------|----|----|----|----|----|----|----|----|
 | ![digit 0](./Slide/digit_0.png)| On | On | On | On | On | On |    |    |
@@ -19,4 +20,6 @@
 | ![digit 9](./Slide/digit_9.png)| On | On | On | On |    | On | On |    |
 
 
-![circuit1](./Slide/Circuit1.png){: width="60%"}
+<center>
+<img src="./Slide/Circuit1.png"  width="60%" >
+</center>
