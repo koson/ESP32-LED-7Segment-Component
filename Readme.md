@@ -20,4 +20,10 @@
 | ![digit 9](./Slide/digit_9.png)| On | On | On | On |    | On | On |    |
 
 
+# วงจรที่ใช้ในการทดลอง
+
 <img src="./Slide/Circuit1.png" align="center" width="50%" >
+
+
+
+## [ใบงานที่ 6-1 การทดสอบ hardware](./Lab6-1.md) 
