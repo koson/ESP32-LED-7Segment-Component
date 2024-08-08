@@ -13,11 +13,9 @@ LED seg_g(22);
 LED digit_1(0);
 LED digit_2(4);
 
-extern "C" void app_main(void)
-{
 
-    while(1)
-    {
+void HardwareTest()
+{
     digit_1.ON();
     digit_2.OFF();    
     seg_a.ON();
@@ -56,8 +54,15 @@ extern "C" void app_main(void)
     vTaskDelay(500/portTICK_PERIOD_MS);
     seg_g.OFF();
     vTaskDelay(500/portTICK_PERIOD_MS);
+}
 
+extern "C" void app_main(void)
+{
 
+    while(1)
+    {
+        HardwareTest();
+        vTaskDelay(500/portTICK_PERIOD_MS);
     } 
 
 }
