@@ -110,3 +110,37 @@ extern "C" void app_main(void)
 ```
 
 2.6 build และทดสอบโปรแกรม
+
+รูปภาพ
+![image](https://github.com/user-attachments/assets/c8bf32b6-ecd9-4018-8fd3-a01f769d0738)
+
+![image](https://github.com/user-attachments/assets/6480d251-a7d0-48c4-a469-3c444cc20db7)
+![image](https://github.com/user-attachments/assets/f5581050-a23e-462f-99c6-100dfed9ca1a)
+
+![image](https://github.com/user-attachments/assets/4c4efca9-c544-490f-80f5-b0914de4e6df)
+
+
+
+
+
+
+
+วิดิโอ ที่ทดสอบ จะเห็นว่า  7 segment ติดทั้ง 2 อัน ทั้งของ S1 และ  S2
+  https://vt.tiktok.com/ZS2FxpnfC/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
