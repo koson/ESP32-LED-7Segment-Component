@@ -169,6 +169,7 @@ SevenSegment ของ s2 ติด แค่ อันเดียวเพร�
 วิดิโอ
 https://vt.tiktok.com/ZS2FxuYq7/
 
+![image](https://github.com/user-attachments/assets/2f043ac0-a1ae-47b7-b147-173aa62ed36a)
 
 
 3.3 แก้ไข  code  ใน main.cpp
@@ -214,6 +215,7 @@ SevenSegment ของ s1 ติด กับ SevenSegment ของ s2 ติ�
 
 https://vt.tiktok.com/ZS2FxEWT3/
 
+![image](https://github.com/user-attachments/assets/0838d25b-4668-4054-bc90-a1142a656d50)
 
 
 
