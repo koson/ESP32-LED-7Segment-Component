@@ -1,6 +1,8 @@
 # ESP32 Seven Segment Component
 
+ลิงค์งาน ไฟร์ บน GIT HUB
 
+https://github.com/AnchisaPhetnoi/LAB__6.git
 
 
 ## ตารางความจริงสำหรับการแสดงผลตัวเลข 7 ส่วน   
