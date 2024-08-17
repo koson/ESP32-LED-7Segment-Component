@@ -217,8 +217,10 @@ https://vt.tiktok.com/ZS2FxEWT3/
 
 ![image](https://github.com/user-attachments/assets/0838d25b-4668-4054-bc90-a1142a656d50)
 
+   
+ลิงค์งานบน GIT HUB
 
-
+https://github.com/AnchisaPhetnoi/LAB__6.git
 
 
 
