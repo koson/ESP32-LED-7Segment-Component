@@ -112,16 +112,9 @@ extern "C" void app_main(void)
 2.6 build และทดสอบโปรแกรม
 
 รูปภาพ
-![image](https://github.com/user-attachments/assets/c8bf32b6-ecd9-4018-8fd3-a01f769d0738)
 
-![image](https://github.com/user-attachments/assets/6480d251-a7d0-48c4-a469-3c444cc20db7)
-![image](https://github.com/user-attachments/assets/f5581050-a23e-462f-99c6-100dfed9ca1a)
-
-![image](https://github.com/user-attachments/assets/4c4efca9-c544-490f-80f5-b0914de4e6df)
-
-
-
-
+![image](https://github.com/user-attachments/assets/aa838a9c-7977-4c1a-aed9-6ee828d74ce6)
+![image](https://github.com/user-attachments/assets/54cc1530-12ce-46da-b38b-f4e35e6e542d)
 
 
 
