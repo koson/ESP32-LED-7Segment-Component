@@ -110,3 +110,33 @@ extern "C" void app_main(void)
 ```
 
 2.6 build และทดสอบโปรแกรม
+
+รูปภาพ
+
+![image](https://github.com/user-attachments/assets/aa838a9c-7977-4c1a-aed9-6ee828d74ce6)
+![image](https://github.com/user-attachments/assets/54cc1530-12ce-46da-b38b-f4e35e6e542d)
+
+
+
+วิดิโอ ที่ทดสอบ จะเห็นว่า  7 segment ติดทั้ง 2 อัน ทั้งของ S1 และ  S2
+  https://vt.tiktok.com/ZS2FxpnfC/
+
+![image](https://github.com/user-attachments/assets/ce3b0df5-e882-4870-b65b-0cb73672562d)
+
+
+ลิงค์งาน บน GIT HUB
+
+https://github.com/AnchisaPhetnoi/LAB__6.git
+
+
+
+
+
+
+
+
+
+
+
+
+
