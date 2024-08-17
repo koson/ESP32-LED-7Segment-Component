@@ -119,6 +119,19 @@ extern "C" void app_main(void)
 
 SevenSegment ของ s1 ติด แค่ อันเดียวเพราะในโค้ดเป็นการ สั่งให้ s1 ติดแค่อันเดียว และ มีการติดครบวงจร  และ และติดครบ ลูป โดยติดเป็นเวลาครึ่งวินาที   SevenSegment s2 ไม่ติดเพราะโค้ดไม่ได้มีคำสั่งให้ติด
 
+รูปภาพ
+
+![image](https://github.com/user-attachments/assets/d409ea77-d96a-4966-9c60-d7697818013a)
+![image](https://github.com/user-attachments/assets/de7c0c99-3d86-4736-9620-7cfbe94cf074)
+
+วิดิโอ
+
+https://vt.tiktok.com/ZS2FxBRty/
+
+
+
+
+
 3.2 แก้ไข  code  ใน main.cpp
 
 ```cpp
