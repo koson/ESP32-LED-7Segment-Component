@@ -174,6 +174,18 @@ extern "C" void app_main(void)
 SevenSegment ของ s1 ติด กับ SevenSegment ของ s2 ติด เพราะมีคำสั่งในโค้ดให้ SevenSegment ของ s1 และ s2 ติด
 จะเห็นว่า SevenSegment ติดอยู่ 2 อัน และติดครบ ลูป โดยติดเป็นเวลาครึ่งวินาที
 
+รูปภาพ
+
+![image](https://github.com/user-attachments/assets/c8bf32b6-ecd9-4018-8fd3-a01f769d0738)
+
+![image](https://github.com/user-attachments/assets/6480d251-a7d0-48c4-a469-3c444cc20db7)
+![image](https://github.com/user-attachments/assets/f5581050-a23e-462f-99c6-100dfed9ca1a)
+
+![image](https://github.com/user-attachments/assets/4c4efca9-c544-490f-80f5-b0914de4e6df)
+
+วิดิโอ
+
+
 
 
 
