@@ -128,6 +128,7 @@ extern "C" void app_main(void)
 วิดิโอ ที่ทดสอบ จะเห็นว่า  7 segment ติดทั้ง 2 อัน ทั้งของ S1 และ  S2
   https://vt.tiktok.com/ZS2FxpnfC/
 
+![image](https://github.com/user-attachments/assets/ce3b0df5-e882-4870-b65b-0cb73672562d)
 
 
 
