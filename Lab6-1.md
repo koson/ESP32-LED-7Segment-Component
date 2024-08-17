@@ -124,7 +124,9 @@ extern "C" void app_main(void)
 ![image](https://github.com/user-attachments/assets/ce3b0df5-e882-4870-b65b-0cb73672562d)
 
 
+ลิงค์งาน บน GIT HUB
 
+https://github.com/AnchisaPhetnoi/LAB__6.git
 
 
 
